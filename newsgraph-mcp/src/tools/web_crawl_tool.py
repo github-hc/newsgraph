@@ -1,4 +1,6 @@
-def web_crawl(url: str) -> str:
+from crawl4ai import *
+
+async def web_crawl(url: str) -> str:
     """
     Crawl and extract content from a web page.
 
@@ -21,4 +23,9 @@ def web_crawl(url: str) -> str:
     Returns:
         Extracted webpage content as text.
     """
-    return "hi"
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(
+            url=url,
+        )
+
+        return result.markdown

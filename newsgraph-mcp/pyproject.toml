@@ -3,7 +3,8 @@ name = "newsgraph-mcp"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 dependencies = [
+    "crawl4ai>=0.8.9",
     "mcp>=1.27.2",
 ]

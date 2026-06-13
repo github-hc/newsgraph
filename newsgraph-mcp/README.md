@@ -12,11 +12,14 @@ The server runs on SSE (Server-Sent Events) HTTP transport by default.
 
 ### 1. Setup
 
-Ensure you have `uv` installed, then install dependencies:
+Ensure you have `uv` installed, then install dependencies and download Playwright browsers:
 
 ```bash
 uv sync
+uv run crawl4ai-setup
 ```
+
+> `crawl4ai-setup` downloads Chromium and sets up the crawl4ai database. Only needed once after install or Python version changes.
 
 ### 2. Start the Server
 
