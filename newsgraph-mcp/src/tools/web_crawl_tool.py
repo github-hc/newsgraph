@@ -1,7 +1,8 @@
-import asyncio
+import json
 from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
 from crawl4ai.content_filter_strategy import PruningContentFilter
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
+from src.utils.markdown_cleaner import chunk_markdown
 
 async def web_crawl(url: str) -> str:
     """
@@ -51,10 +52,11 @@ async def web_crawl(url: str) -> str:
         )
 
         if result.success:
-            # 'fit_markdown' is your pruned content, focusing on "denser" text
             print("Raw Markdown length:", len(result.markdown.raw_markdown))
             print("Fit Markdown length:", len(result.markdown.fit_markdown))
-            return result.markdown.fit_markdown
+
+            chunks = chunk_markdown(result.markdown.fit_markdown, source_url=url)
+            return json.dumps(chunks, ensure_ascii=False, indent=2)
         else:
             print("Error:", result.error_message)
             return result.error_message

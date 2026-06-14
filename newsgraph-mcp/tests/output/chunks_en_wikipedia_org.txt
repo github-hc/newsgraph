@@ -1,0 +1,22 @@
+URL: https://en.wikipedia.org/wiki/Shark_Tank_India
+Total chunks: 3
+======================================================================
+
+Source: https://en.wikipedia.org/wiki/Shark_Tank_India
+Section: 1
+Content: Upload photos of natural heritage sites in India to help Wikipedia and win fantastic prizes! From Wikipedia, the free encyclopedia Indian business reality television series | Theme still of the Sharks from Season 4 | | --- | | (season 1) (seasons 2–3)Aashish Solanki and Sahiba Bali (season 4)Aaditya Kulshreshth (season 5) | | is an Indian -language business that airs on and . The show is the Indian franchise of the American show . It shows making business presentations to a panel of or , who decide whether to in their company. aired on and from 20 December 2021 to 4 February 2022. The gateway episode aired on 11 February 2022. is the presenter of for season 1. aired on Sony LIV and Sony Entertainment Television from 2 January 2023 to 10 March 2023. The second season featured Amit Jain, CEO and co-founder of CarDekho group, InsuranceDekho.com as a new shark. Rahul Dua was the host of the season. The gateway episode aired on 13 March 2023 that featured guest shark (i.e. ) Vikas D Nahar, Founder & CEO of Happilo. aired on and Sony Entertainment Television from 22 January 2024 to 31 March 2024. This season featured the addition of six distinguished sharks to the panel: Deepinder Goyal,
+Metadata: {"source": "https://en.wikipedia.org/wiki/Shark_Tank_India", "chunk_id": 0, "element_type": "CompositeElement"}
+----------------------------------------------------------------------
+
+Source: https://en.wikipedia.org/wiki/Shark_Tank_India
+Section: 2
+Content: Founder and CEO, ; Azhar Iqubal, Co-founder & CEO, ; , Founder & CEO, ; Radhika Gupta, MD & CEO, Edelweiss MF; Varun Dua, Founder, , and ; Co-founder and Chairperson, UpGrad. The gateway episode aired on 30 March 2024 and Ecopreneur special episode aired on 31 March 2024. is the presenter of for season 2 and 3. aired on and Sony Entertainment Television from 6 January 2025 to 18 March 2025. This season featured the addition of three distinguished sharks to the panel: , co-founder of and Titan Capital and Viraj Bahl, founder and CEO of Veeba, and Chirag Nakrani, Founder and Managing Director of Rayzon Solar. Sahiba Bali and Aashish Solanki replaced Dua as the presenters of Shark Tank India Season 4. The season concluded with a special episode featuring pitches presented by (or supporting) the , with , founder of Bollant Industries, joining the panel of sharks. aired on and Sony Entertainment Television from 5 January 2026. Shark Tank India Season 5 is hosted by Aditya Kulshreshth. The show features a panel of potential investors or , termed as "Sharks", who listen to entrepreneurs' pitch ideas for a business or product they wish to develop. These self-made multi-millionaires judge
+Metadata: {"source": "https://en.wikipedia.org/wiki/Shark_Tank_India", "chunk_id": 1, "element_type": "CompositeElement"}
+----------------------------------------------------------------------
+
+Source: https://en.wikipedia.org/wiki/Shark_Tank_India
+Section: 3
+Content: the business concepts and products pitched and then decide whether to invest their money to help market and mentor each contestant. 1. Nahar appeared as a guest shark in the gateway episode that aired on 13 March 2023. 2. Bolla appeared as a guest shark in the final episode of the season, focusing on persons with disabilities.
+Metadata: {"source": "https://en.wikipedia.org/wiki/Shark_Tank_India", "chunk_id": 2, "element_type": "CompositeElement"}
+----------------------------------------------------------------------
+
