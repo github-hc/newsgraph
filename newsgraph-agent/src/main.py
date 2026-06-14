@@ -6,4 +6,6 @@ result = graph.invoke(
     }
 )
 
-print(result)
+print(result["research"])
+print()
+print(result["newsletter"])
